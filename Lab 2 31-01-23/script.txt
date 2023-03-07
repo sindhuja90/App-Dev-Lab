@@ -1,3 +1,0 @@
-const el = document.getElementById("demo");
-
-el.innerText = "Paragraph text changed";
